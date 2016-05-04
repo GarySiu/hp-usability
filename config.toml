@@ -5,4 +5,10 @@ title = "Helipaddy Usability Testing"
   description = ""
   highlightStyle = "github"
   noCategoryLink = true
-  mainMenu = ["home","skyroam"]
+  mainMenu = [
+    "home",
+    "add a site",
+    "log in",
+    "pilots",
+    "skyroam",
+    ]
