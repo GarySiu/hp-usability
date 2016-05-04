@@ -4,13 +4,15 @@ title = "Home"
 
 +++
 
-## Broken
+### Broken
 * `Google play` and `App Store` buttons don't work in Safari
 * `Register` and `Go to Paypal` mouseover effects inconsistent/bugged
 * Mouseover on social media buttons cause them to disappear from view. Also non-standard and give no context (follower count?)
+* Supportkit is still loading in the background and throwing errors
 
-## Usability
-* Preloader. Why?
+### Usability
+* A lot of complexity is hidden in the top nav and sub menus. The sub menus are not indicated in any way. This is a particularly bad experience for mobile users. Perhaps put non-essential links in a footer?
+* Preloader. Why do we need one when the page is all static content that should load instantly?
 * Thumbnail and lightbox image size barely different: not worth the click.
 * Most recent content (twitter feed) is at the bottom of a long page
 * Q's attribution is the same style as his blockquote. Hard to read.
@@ -21,7 +23,7 @@ title = "Home"
 * Also given the importance, why is the premium option down at the bottom?
 * Support chat gives no indication on whether anyone is online or how long a response is expected to take
 
-## Style
+### Style
 * Text justification is all over the place. Avoid longer passages of centered text and right justified text.
 * Is it possible to move the disclaimer to somewhere less prominent? It's given equal or greater emphasis than `the only reliable source of landing sites for helicopter pilots`.
 * All the images of the app are framed by an iPhone (apart from a Nexus hidden in the back). Might be clearer if you show some UI without one. Also consider alternating with an Android device?
