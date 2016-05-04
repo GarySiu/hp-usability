@@ -1,0 +1,8 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Helipaddy Usability Testing"
+[params]
+  description = ""
+  highlightStyle = "github"
+  noCategoryLink = true
+  mainMenu = ["home","skyroam"]
