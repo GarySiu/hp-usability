@@ -1,4 +1,4 @@
-baseurl = "http://hp-usability.bitballoon.com/"
+baseurl = "http://hp-usability.bitballoon.com"
 languageCode = "en-us"
 title = "Helipaddy Usability Testing"
 [params]
@@ -10,5 +10,5 @@ title = "Helipaddy Usability Testing"
     "add a site",
     "log in",
     "pilots",
-    "skyroam",
+    # "skyroam",
     ]
