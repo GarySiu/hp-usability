@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://hp-usability.bitballoon.com/"
 languageCode = "en-us"
 title = "Helipaddy Usability Testing"
 [params]

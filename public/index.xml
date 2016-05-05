@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Helipaddy Usability Testing</title>
+    <link>http://hp-usability.bitballoon.com/</link>
+    <description>Recent content on Helipaddy Usability Testing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 May 2016 18:35:30 +0100</lastBuildDate>
+    <atom:link href="http://hp-usability.bitballoon.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pilots</title>
+      <link>http://hp-usability.bitballoon.com/pilots/</link>
+      <pubDate>Wed, 04 May 2016 18:35:30 +0100</pubDate>
+      
+      <guid>http://hp-usability.bitballoon.com/pilots/</guid>
+      <description>
+
+&lt;p&gt;The pilots link in the topnav takes you to the &lt;code&gt;Find a Site&lt;/code&gt; page. This isn&amp;rsquo;t consistent with other top level links.&lt;/p&gt;
+
+&lt;h2 id=&#34;find-a-site:b14efe8fc2bec69f483d865e4e50d41b&#34;&gt;Find a Site&lt;/h2&gt;
+
+&lt;h3 id=&#34;broken:b14efe8fc2bec69f483d865e4e50d41b&#34;&gt;Broken&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Missing Google+ link.&lt;/li&gt;
+&lt;li&gt;Airfields link seems to link directly to an unstyled page of every airfield in helipaddy on the admin site. Is this intentional?&lt;/li&gt;
+&lt;li&gt;Possible to scrape how many/what sites Helipaddy has.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;usability:b14efe8fc2bec69f483d865e4e50d41b&#34;&gt;Usability&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Unclear why you need an email and who the email should refer to.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;style:b14efe8fc2bec69f483d865e4e50d41b&#34;&gt;Style&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Compared to the text on the &lt;a href=&#34;../home/&#34;&gt;home&lt;/a&gt; page, the text is tiny and borderline unreadable.&lt;/li&gt;
+&lt;li&gt;The call to action does not stand out at all and it is buried at the bottom of the page.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;free-registration:b14efe8fc2bec69f483d865e4e50d41b&#34;&gt;Free Registration&lt;/h2&gt;
+
+&lt;h3 id=&#34;broken-1:b14efe8fc2bec69f483d865e4e50d41b&#34;&gt;Broken&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Live chat covers elements on the bottom of the screen (the submit button!) on smaller screen sizes&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;font-size: larger; color: red;&#34;&gt;The https certificate is &lt;strong&gt;not&lt;/strong&gt; setup properly.&lt;/span&gt; Currently all users are using an unsecure connection. Attempting to manually force a secure connection raises a warning that the certificate is incorrectly configured.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;usability-1:b14efe8fc2bec69f483d865e4e50d41b&#34;&gt;Usability&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Must &lt;code&gt;Home&lt;/code&gt; location really be mandatory considering it&amp;rsquo;s sole purpose is use for our marketing?&lt;/li&gt;
+&lt;li&gt;No placeholders are set.&lt;/li&gt;
+&lt;li&gt;Consider &lt;code&gt;Display&lt;/code&gt; name instead of &lt;code&gt;Nickname&lt;/code&gt; and/or clarify how it will be used.&lt;/li&gt;
+&lt;li&gt;It is not clear on this page what Helipaddy Premium entails and how long the promo trial period runs for.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;style-1:b14efe8fc2bec69f483d865e4e50d41b&#34;&gt;Style&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;There is no promotion for Helipaddy Premium on this page and no option to prepay/switch to Premium from the page.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;go-premium:b14efe8fc2bec69f483d865e4e50d41b&#34;&gt;Go Premium&lt;/h2&gt;
+
+&lt;h3 id=&#34;broken-2:b14efe8fc2bec69f483d865e4e50d41b&#34;&gt;Broken&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Missing Google+ link (aren&amp;rsquo;t these in a partial?)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;usability-2:b14efe8fc2bec69f483d865e4e50d41b&#34;&gt;Usability&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;This page doesn&amp;rsquo;t actually let you do anything!&lt;/strong&gt; It&amp;rsquo;s simply an ad for a page that you can only visit while signed in with almost identical content. So as a new user that wants to pay for a Premium account, you must:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Read through the entire ad and agree with the proposition&lt;/li&gt;
+&lt;li&gt;Find the link at the bottom&lt;/li&gt;
+&lt;li&gt;Click through to find that you need an account&lt;/li&gt;
+&lt;li&gt;Click through again to sign up&lt;/li&gt;
+&lt;li&gt;Click the &amp;ldquo;Upgrade to Awesome&amp;rdquo; button&lt;/li&gt;
+&lt;li&gt;Then go through the payment process&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I think you would have a much higher conversion rate if the steps were more like this:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Read the ad with a prominent call to action right up front&lt;/li&gt;
+&lt;li&gt;Click the button. If signed in, you are taken immediately to the payment process.&lt;/li&gt;
+&lt;li&gt;If you are not signed it, it will present you with a sign up form or offer the option to sign in to a pre-existing account. Think Paypal. The customer is reassured that any subscription they buy is in addition to the promo period.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;style-2:b14efe8fc2bec69f483d865e4e50d41b&#34;&gt;Style&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Where are all the images showing the cool stuff you get for Premium?&lt;/li&gt;
+&lt;li&gt;No feature comparison grid. I feel like I have to read the whole page.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The quotes aren&amp;rsquo;t styled differently to the body text. This makes it much harder to read/distinguish. Note how big a difference styling makes even on a minimally styled document like this.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;events:b14efe8fc2bec69f483d865e4e50d41b&#34;&gt;Events&lt;/h2&gt;
+
+&lt;h3 id=&#34;broken-3:b14efe8fc2bec69f483d865e4e50d41b&#34;&gt;Broken&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Missing Google+ button&lt;/li&gt;
+&lt;li&gt;The &lt;code&gt;full screen&lt;/code&gt; link doesn&amp;rsquo;t just make the calendar full screen as expected: it opens up a new page with a full screen copy of the calendar.&lt;/li&gt;
+&lt;li&gt;The &lt;code&gt;list&lt;/code&gt; link takes us to another completely unstyled list of events (straight from a db query?)&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Calendar overflows it&amp;rsquo;s container in some screen sizes. This adds an additional scrollbar and degree of seperation.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;blockquote&gt;
+&lt;p&gt;There is a complete list of heli events available in your Pilot Dashboard.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The &lt;code&gt;Pilot Dashboard&lt;/code&gt; link does not take you to the events page and there&amp;rsquo;s no indication on where to go on the dashboard page. It&amp;rsquo;s not clear from the &lt;code&gt;Events&lt;/code&gt; page what the difference logging in or having Premium will make. Viewing this page while logged in doesn&amp;rsquo;t appear to make any difference?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;usability-3:b14efe8fc2bec69f483d865e4e50d41b&#34;&gt;Usability&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Only site owners can directly add events. This severely limits who can contribute to the calendar. I understand that you want to promote things that you can directly fly to but I think there&amp;rsquo;s a lot of value to being able to see other things that are merely happening near a landing site.&lt;/li&gt;
+&lt;li&gt;The instructions for adding an event are quite complicated and are given in one long run on sentence.&lt;/li&gt;
+&lt;li&gt;The alternative way to submit an event is completely divorced from the instructions.&lt;/li&gt;
+&lt;li&gt;Submission form is missing placeholders.&lt;/li&gt;
+&lt;li&gt;There is no validation on the form.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;style-3:b14efe8fc2bec69f483d865e4e50d41b&#34;&gt;Style&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;The big heli events&lt;/code&gt; is quite divorced from the rest of the page. There&amp;rsquo;s no indication that there&amp;rsquo;s more content.&lt;/li&gt;
+&lt;li&gt;No suggestion that you would receive better service/more events with Premium.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Log In</title>
+      <link>http://hp-usability.bitballoon.com/log-in/</link>
+      <pubDate>Wed, 04 May 2016 18:27:39 +0100</pubDate>
+      
+      <guid>http://hp-usability.bitballoon.com/log-in/</guid>
+      <description>
+
+&lt;h3 id=&#34;broken:7c56a12a72c26e42b8ccebd96a71140f&#34;&gt;Broken&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Email input field for signing up a new account doesn&amp;rsquo;t actually do anything&lt;/li&gt;
+&lt;li&gt;Clicking on the brand logo doesn&amp;rsquo;t do anything (only tested in Chrome). It appears to be attached to some JavaScript though.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;usability:7c56a12a72c26e42b8ccebd96a71140f&#34;&gt;Usability&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Generally fine. It is slightly strange that the reset page has a cancel button but this is very minor.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;style:7c56a12a72c26e42b8ccebd96a71140f&#34;&gt;Style&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Styling is different from the rest of the site&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Add A Site</title>
+      <link>http://hp-usability.bitballoon.com/add-a-site/</link>
+      <pubDate>Wed, 04 May 2016 16:53:33 +0100</pubDate>
+      
+      <guid>http://hp-usability.bitballoon.com/add-a-site/</guid>
+      <description>
+
+&lt;h3 id=&#34;broken:ec82ae9316d87949fedd70dc116be2c9&#34;&gt;Broken&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Back to top link doesn&amp;rsquo;t work (missing anchor with id &lt;code&gt;#top&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Brand logo links to the login page, not back to the homepage. This is different from every other page on the site.&lt;/li&gt;
+&lt;li&gt;Impossible to read placeholder instructions on a small screen&lt;/li&gt;
+&lt;li&gt;If you cannot geocode your address, it will not allow you to enter it. However you can enter a latlng, it will always return a geocoded address (often not correct). This is particularly bad if someone only wants to enter aerial poi.&lt;/li&gt;
+&lt;li&gt;It is impossible to search by what3words, but you can still edit the w3w address field.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;usability:ec82ae9316d87949fedd70dc116be2c9&#34;&gt;Usability&lt;/h3&gt;
+
+&lt;h4 id=&#34;general:ec82ae9316d87949fedd70dc116be2c9&#34;&gt;General&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Menu reads as &lt;code&gt;Add A Site&lt;/code&gt; but the page is called &lt;code&gt;Add Pad&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;You can&amp;rsquo;t just detect your current location&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;form:ec82ae9316d87949fedd70dc116be2c9&#34;&gt;Form&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Several fields are missing placeholders.&lt;/li&gt;
+&lt;li&gt;Public/private radio buttons are not grouped or aligned&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Landing not possible&lt;/code&gt; needs explanation. Linked with PPR.&lt;/li&gt;
+&lt;li&gt;Geocoder &lt;em&gt;a.k.a. the address search&lt;/em&gt; search button is entirely redundant.&lt;/li&gt;
+&lt;li&gt;Both &lt;code&gt;Latitude&lt;/code&gt; and &lt;code&gt;Longitude&lt;/code&gt; say &lt;code&gt;Drag map or enter number&lt;/code&gt;. Dragging the map doesn&amp;rsquo;t encode a latlong. There is no example of what an acceptable decimal format is and no accomadation for someone that only has the latlong in degrees&lt;/li&gt;
+&lt;li&gt;It is not immediately clear whether you&amp;rsquo;re supposed to enter the site&amp;rsquo;s contact details or your own until you reach &lt;code&gt;Submitter&#39;s Email&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Website placeholder is weird. Is it possible to link to &lt;code&gt;yourhost.com/~yoursite&lt;/code&gt; for example? Also not clear whether having &lt;code&gt;http://&lt;/code&gt; would matter or not.&lt;/li&gt;
+&lt;li&gt;Twitter handle does not specify whether it expects an &lt;code&gt;@&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Tagging breaks out of the page layout and is particularly nasty to work with. Suggest implementing some sort of typeahead/fuzzy search? There is also no guidance on what is preferred or acceptable.&lt;/li&gt;
+&lt;li&gt;Establishment only help is on another page. Also a lot of the labels say &lt;code&gt;see landing information&lt;/code&gt; but the placeholder in &lt;code&gt;landing information&lt;/code&gt; is empty.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;style:ec82ae9316d87949fedd70dc116be2c9&#34;&gt;Style&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Styling on this page is inconsistent with the rest of the site&lt;/li&gt;
+&lt;li&gt;Capitalisation is inconsistent across the different placeholders&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Private Note&lt;/code&gt; might be more appropriate than &lt;code&gt;Private Message&lt;/code&gt;?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://hp-usability.bitballoon.com/home/</link>
+      <pubDate>Wed, 04 May 2016 15:03:24 +0100</pubDate>
+      
+      <guid>http://hp-usability.bitballoon.com/home/</guid>
+      <description>
+
+&lt;h3 id=&#34;broken:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;Broken&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Google play&lt;/code&gt; and &lt;code&gt;App Store&lt;/code&gt; buttons don&amp;rsquo;t work in Safari&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Register&lt;/code&gt; and &lt;code&gt;Go to Paypal&lt;/code&gt; mouseover effects inconsistent/bugged&lt;/li&gt;
+&lt;li&gt;Mouseover on social media buttons cause them to disappear from view. Also non-standard and give no context (follower count?)&lt;/li&gt;
+&lt;li&gt;Supportkit is still loading in the background and throwing errors&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;usability:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;Usability&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A lot of complexity is hidden in the top nav and sub menus. The sub menus are not indicated in any way. This is a particularly bad experience for mobile users. Perhaps put non-essential links in a footer?&lt;/li&gt;
+&lt;li&gt;Preloader. Why do we need one when the page is all static content that should load instantly?&lt;/li&gt;
+&lt;li&gt;Thumbnail and lightbox image size barely different: not worth the click.&lt;/li&gt;
+&lt;li&gt;Most recent content (twitter feed) is at the bottom of a long page&lt;/li&gt;
+&lt;li&gt;Q&amp;rsquo;s attribution is the same style as his blockquote. Hard to read.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Register as a pilot&lt;/code&gt; suggests you can register as something else but there&amp;rsquo;s no indication of what that other class of user is or how to register as one.&lt;/li&gt;
+&lt;li&gt;Unclear what the differences between premium and free memberships are. Is there a breakdown?&lt;/li&gt;
+&lt;li&gt;What is PPR? Is this something that a site owner would know?&lt;/li&gt;
+&lt;li&gt;Given HP premium requires a HP registered email, would it not make more sense to have the form after you&amp;rsquo;ve logged in?&lt;/li&gt;
+&lt;li&gt;Also given the importance, why is the premium option down at the bottom?&lt;/li&gt;
+&lt;li&gt;Support chat gives no indication on whether anyone is online or how long a response is expected to take&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;style:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;Style&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Text justification is all over the place. Avoid longer passages of centered text and right justified text.&lt;/li&gt;
+&lt;li&gt;Is it possible to move the disclaimer to somewhere less prominent? It&amp;rsquo;s given equal or greater emphasis than &lt;code&gt;the only reliable source of landing sites for helicopter pilots&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;All the images of the app are framed by an iPhone (apart from a Nexus hidden in the back). Might be clearer if you show some UI without one. Also consider alternating with an Android device?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>_index</title>
+      <link>http://hp-usability.bitballoon.com/</link>
+      <pubDate>Wed, 04 May 2016 14:16:12 +0100</pubDate>
+      
+      <guid>http://hp-usability.bitballoon.com/</guid>
+      <description>
+
+&lt;h1 id=&#34;intro:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Intro&lt;/h1&gt;
+
+&lt;p&gt;I went through the Helipaddy site bit by bit. Jack thought it would be useful for me to make a note of perceived issues so this it that list. &lt;abbr title=&#34;Your Mileage May Vary&#34;&gt;YMMV&lt;/abbr&gt;.&lt;/p&gt;
+
+&lt;p&gt;Everything is categorized by page and linked in the top nav.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;-Gary&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
